@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01算法速成系列", "01算法速成系列", "{21C58525-54E4-4590-8CD0-847A1DB0B923}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02树结构专题", "02树结构专题", "{56F7F601-D4BA-4802-A755-39DC3D603C06}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03算法洗脑系列", "03算法洗脑系列", "{7EF573E1-94A9-4D63-942C-6A34D998183B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04经典算法系列", "04经典算法系列", "{5BAE8AB4-2FF9-44E9-B772-B9BBAB7392F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01第一天 七大经典排序【上】", "01算法速成系列\01第一天 七大经典排序【上】\01第一天 七大经典排序【上】.csproj", "{3898280E-4141-46A0-A2B1-A362DFF64E23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01第一天 二叉查找树", "02树结构专题\01第一天 二叉查找树\01第一天 二叉查找树.csproj", "{5740C914-FFA1-47D2-8AC7-DB816F0D27C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01第一篇 递推思想", "03算法洗脑系列\01第一篇 递推思想\01第一篇 递推思想.csproj", "{D2B0A741-6FBF-4761-B3E9-990C33710EC7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01第一题 百钱买百鸡", "04经典算法系列\01第一题 百钱买百鸡\01第一题 百钱买百鸡.csproj", "{1663F009-73AA-4B9F-8CD7-68597AA0B04B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3898280E-4141-46A0-A2B1-A362DFF64E23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3898280E-4141-46A0-A2B1-A362DFF64E23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3898280E-4141-46A0-A2B1-A362DFF64E23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3898280E-4141-46A0-A2B1-A362DFF64E23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5740C914-FFA1-47D2-8AC7-DB816F0D27C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5740C914-FFA1-47D2-8AC7-DB816F0D27C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5740C914-FFA1-47D2-8AC7-DB816F0D27C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5740C914-FFA1-47D2-8AC7-DB816F0D27C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2B0A741-6FBF-4761-B3E9-990C33710EC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2B0A741-6FBF-4761-B3E9-990C33710EC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2B0A741-6FBF-4761-B3E9-990C33710EC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2B0A741-6FBF-4761-B3E9-990C33710EC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1663F009-73AA-4B9F-8CD7-68597AA0B04B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1663F009-73AA-4B9F-8CD7-68597AA0B04B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1663F009-73AA-4B9F-8CD7-68597AA0B04B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1663F009-73AA-4B9F-8CD7-68597AA0B04B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{3898280E-4141-46A0-A2B1-A362DFF64E23} = {21C58525-54E4-4590-8CD0-847A1DB0B923}
+		{5740C914-FFA1-47D2-8AC7-DB816F0D27C6} = {56F7F601-D4BA-4802-A755-39DC3D603C06}
+		{D2B0A741-6FBF-4761-B3E9-990C33710EC7} = {7EF573E1-94A9-4D63-942C-6A34D998183B}
+		{1663F009-73AA-4B9F-8CD7-68597AA0B04B} = {5BAE8AB4-2FF9-44E9-B772-B9BBAB7392F7}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BBFC21AD-E3AA-4B6B-B521-525911F40456}
+	EndGlobalSection
+EndGlobal
