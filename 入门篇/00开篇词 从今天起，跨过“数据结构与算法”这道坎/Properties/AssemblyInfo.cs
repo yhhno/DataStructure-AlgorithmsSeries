@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // 有关程序集的一般信息由以下
 // 控制。更改这些特性值可修改
 // 与程序集关联的信息。
-[assembly: AssemblyTitle("算法实战（三）：剖析高性能队列Disruptor背后的数据结构和算法")]
+[assembly: AssemblyTitle("00开篇词 从今天起，跨过“数据结构与算法”这道坎")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("算法实战（三）：剖析高性能队列Disruptor背后的数据结构和算法")]
+[assembly: AssemblyProduct("00开篇词 从今天起，跨过“数据结构与算法”这道坎")]
 [assembly: AssemblyCopyright("Copyright ©  2018")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // 如果此项目向 COM 公开，则下列 GUID 用于类型库的 ID
-[assembly: Guid("efac47e5-160d-4a1b-a09b-f5f96756513d")]
+[assembly: Guid("3af65a6a-de1f-4aff-bc13-56c7bf54e7f3")]
 
 // 程序集的版本信息由下列四个值组成: 
 //

@@ -109,13 +109,15 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "34统计问题：如何利�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "41算法实战（一）：剖析Redis常用的数据类型对应的数据结构", "实战篇\41算法实战（一）：剖析Redis常用的数据类型对应的数据结构\41算法实战（一）：剖析Redis常用的数据类型对应的数据结构.csproj", "{DFDB5F0A-96E1-4EF6-869B-8E9522D60DE1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "42算法实战（二）：剖析搜索引擎背后的经典数据结构和算法", "实战篇\42：算法实战（二）：剖析搜索引擎背后的经典数据结构和算法\42算法实战（二）：剖析搜索引擎背后的经典数据结构和算法.csproj", "{16EF69E4-60CE-42D8-88AE-217060289E92}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "43算法实战（三）：剖析高性能队列Disruptor背后的数据结构和算法", "实战篇\算法实战（三）：剖析高性能队列Disruptor背后的数据结构和算法\43算法实战（三）：剖析高性能队列Disruptor背后的数据结构和算法.csproj", "{EFAC47E5-160D-4A1B-A09B-F5F96756513D}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "44算法实战（四）：剖析微服务接口鉴权限流背后的数据结构和算法", "实战篇\44算法实战（四)：剖析微服务接口鉴权限流背后的数据结构和算法\44算法实战（四）：剖析微服务接口鉴权限流背后的数据结构和算法.csproj", "{7ACC777B-021D-45E5-9608-05C4BBDD0272}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "45算法实战（五）：如何用学过的数据结构和算法实现一个短网址系统？", "实战篇\45算法实战（五）：如何用学过的数据结构和算法实现一个短网址系统？\45算法实战（五）：如何用学过的数据结构和算法实现一个短网址系统？.csproj", "{CB587497-4748-4026-BEA3-7C479219FE74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "42算法实战（二）：剖析搜索引擎背后的经典数据结构和算法", "实战篇\42算法实战（二）：剖析搜索引擎背后的经典数据结构和算法\42算法实战（二）：剖析搜索引擎背后的经典数据结构和算法.csproj", "{0CAC0024-53A6-47F4-8E02-BA7E849E7680}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "43算法实战（三）：剖析高性能队列Disruptor背后的数据结构和算法", "实战篇\43算法实战（三）：剖析高性能队列Disruptor背后的数据结构和算法\43算法实战（三）：剖析高性能队列Disruptor背后的数据结构和算法.csproj", "{B10D6DE2-A73C-4E7E-82FE-598C08644045}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "44算法实战（四）：剖析微服务接口鉴权限流背后的数据结构和算法", "实战篇\44算法实战（四）：剖析微服务接口鉴权限流背后的数据结构和算法\44算法实战（四）：剖析微服务接口鉴权限流背后的数据结构和算法.csproj", "{71AC2E41-DEF2-4978-8253-FB94EDF34DB2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "00开篇词 从今天起，跨过“数据结构与算法”这道坎", "入门篇\00开篇词 从今天起，跨过“数据结构与算法”这道坎\00开篇词 从今天起，跨过“数据结构与算法”这道坎.csproj", "{3AF65A6A-DE1F-4AFF-BC13-56C7BF54E7F3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -303,22 +305,26 @@ Global
 		{DFDB5F0A-96E1-4EF6-869B-8E9522D60DE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DFDB5F0A-96E1-4EF6-869B-8E9522D60DE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DFDB5F0A-96E1-4EF6-869B-8E9522D60DE1}.Release|Any CPU.Build.0 = Release|Any CPU
-		{16EF69E4-60CE-42D8-88AE-217060289E92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{16EF69E4-60CE-42D8-88AE-217060289E92}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{16EF69E4-60CE-42D8-88AE-217060289E92}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{16EF69E4-60CE-42D8-88AE-217060289E92}.Release|Any CPU.Build.0 = Release|Any CPU
-		{EFAC47E5-160D-4A1B-A09B-F5F96756513D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{EFAC47E5-160D-4A1B-A09B-F5F96756513D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{EFAC47E5-160D-4A1B-A09B-F5F96756513D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{EFAC47E5-160D-4A1B-A09B-F5F96756513D}.Release|Any CPU.Build.0 = Release|Any CPU
-		{7ACC777B-021D-45E5-9608-05C4BBDD0272}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7ACC777B-021D-45E5-9608-05C4BBDD0272}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7ACC777B-021D-45E5-9608-05C4BBDD0272}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7ACC777B-021D-45E5-9608-05C4BBDD0272}.Release|Any CPU.Build.0 = Release|Any CPU
 		{CB587497-4748-4026-BEA3-7C479219FE74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{CB587497-4748-4026-BEA3-7C479219FE74}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CB587497-4748-4026-BEA3-7C479219FE74}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CB587497-4748-4026-BEA3-7C479219FE74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CAC0024-53A6-47F4-8E02-BA7E849E7680}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CAC0024-53A6-47F4-8E02-BA7E849E7680}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CAC0024-53A6-47F4-8E02-BA7E849E7680}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CAC0024-53A6-47F4-8E02-BA7E849E7680}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B10D6DE2-A73C-4E7E-82FE-598C08644045}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B10D6DE2-A73C-4E7E-82FE-598C08644045}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B10D6DE2-A73C-4E7E-82FE-598C08644045}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B10D6DE2-A73C-4E7E-82FE-598C08644045}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71AC2E41-DEF2-4978-8253-FB94EDF34DB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71AC2E41-DEF2-4978-8253-FB94EDF34DB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71AC2E41-DEF2-4978-8253-FB94EDF34DB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71AC2E41-DEF2-4978-8253-FB94EDF34DB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AF65A6A-DE1F-4AFF-BC13-56C7BF54E7F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AF65A6A-DE1F-4AFF-BC13-56C7BF54E7F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AF65A6A-DE1F-4AFF-BC13-56C7BF54E7F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AF65A6A-DE1F-4AFF-BC13-56C7BF54E7F3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -369,10 +375,11 @@ Global
 		{5B2CBD6C-03CC-4608-A870-C38B77DC33D1} = {B6471896-646E-4E11-97FE-5917AB06547F}
 		{95E0FD3D-324C-4F39-AD6C-823B6C1A553B} = {B6471896-646E-4E11-97FE-5917AB06547F}
 		{DFDB5F0A-96E1-4EF6-869B-8E9522D60DE1} = {A315193B-AFFC-46B6-B262-02E84D6DFA7E}
-		{16EF69E4-60CE-42D8-88AE-217060289E92} = {A315193B-AFFC-46B6-B262-02E84D6DFA7E}
-		{EFAC47E5-160D-4A1B-A09B-F5F96756513D} = {A315193B-AFFC-46B6-B262-02E84D6DFA7E}
-		{7ACC777B-021D-45E5-9608-05C4BBDD0272} = {A315193B-AFFC-46B6-B262-02E84D6DFA7E}
 		{CB587497-4748-4026-BEA3-7C479219FE74} = {A315193B-AFFC-46B6-B262-02E84D6DFA7E}
+		{0CAC0024-53A6-47F4-8E02-BA7E849E7680} = {A315193B-AFFC-46B6-B262-02E84D6DFA7E}
+		{B10D6DE2-A73C-4E7E-82FE-598C08644045} = {A315193B-AFFC-46B6-B262-02E84D6DFA7E}
+		{71AC2E41-DEF2-4978-8253-FB94EDF34DB2} = {A315193B-AFFC-46B6-B262-02E84D6DFA7E}
+		{3AF65A6A-DE1F-4AFF-BC13-56C7BF54E7F3} = {891DC9F0-06EA-4D8F-A3C2-CF1F01A9874F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {BBFC21AD-E3AA-4B6B-B521-525911F40456}

@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // 有关程序集的一般信息由以下
 // 控制。更改这些特性值可修改
 // 与程序集关联的信息。
-[assembly: AssemblyTitle("42：算法实战（二）：剖析搜索引擎背后的经典数据结构和算法")]
+[assembly: AssemblyTitle("44算法实战（四）：剖析微服务接口鉴权限流背后的数据结构和算法")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("42：算法实战（二）：剖析搜索引擎背后的经典数据结构和算法")]
+[assembly: AssemblyProduct("44算法实战（四）：剖析微服务接口鉴权限流背后的数据结构和算法")]
 [assembly: AssemblyCopyright("Copyright ©  2018")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // 如果此项目向 COM 公开，则下列 GUID 用于类型库的 ID
-[assembly: Guid("16ef69e4-60ce-42d8-88ae-217060289e92")]
+[assembly: Guid("71ac2e41-def2-4978-8253-fb94edf34db2")]
 
 // 程序集的版本信息由下列四个值组成: 
 //
