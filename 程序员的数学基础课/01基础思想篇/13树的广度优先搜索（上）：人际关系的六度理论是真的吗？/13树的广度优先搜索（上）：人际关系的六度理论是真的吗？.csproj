@@ -4,13 +4,14 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{2060E5AD-25DB-475C-BD23-1CEB49A52960}</ProjectGuid>
+    <ProjectGuid>{CC1E0964-A2FC-4EE1-8D97-5D5B84882BE9}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_01作为一名软件工程师_为什么要学习数据结构和算法</RootNamespace>
-    <AssemblyName>01作为一名软件工程师，为什么要学习数据结构和算法</AssemblyName>
+    <RootNamespace>_13树的广度优先搜索_上__人际关系的六度理论是真的吗_</RootNamespace>
+    <AssemblyName>13树的广度优先搜索（上）：人际关系的六度理论是真的吗？</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -49,7 +50,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="01.txt" />
+    <Content Include="13.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -4,13 +4,14 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{2060E5AD-25DB-475C-BD23-1CEB49A52960}</ProjectGuid>
+    <ProjectGuid>{AC8E91FB-6813-411A-9A1C-7D3F2F724350}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_01作为一名软件工程师_为什么要学习数据结构和算法</RootNamespace>
-    <AssemblyName>01作为一名软件工程师，为什么要学习数据结构和算法</AssemblyName>
+    <RootNamespace>_03迭代法_不用编程语言的自带函数_你会如何计算平方根_</RootNamespace>
+    <AssemblyName>03迭代法：不用编程语言的自带函数，你会如何计算平方根？</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -49,7 +50,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="01.txt" />
+    <Content Include="03.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

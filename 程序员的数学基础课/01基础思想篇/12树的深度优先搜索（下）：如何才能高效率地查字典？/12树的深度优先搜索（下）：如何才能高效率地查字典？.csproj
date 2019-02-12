@@ -4,13 +4,14 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{2060E5AD-25DB-475C-BD23-1CEB49A52960}</ProjectGuid>
+    <ProjectGuid>{67822E77-235C-44DE-8229-CCDC54FA5AC3}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_01作为一名软件工程师_为什么要学习数据结构和算法</RootNamespace>
-    <AssemblyName>01作为一名软件工程师，为什么要学习数据结构和算法</AssemblyName>
+    <RootNamespace>_12树的深度优先搜索_下__如何才能高效率地查字典_</RootNamespace>
+    <AssemblyName>12树的深度优先搜索（下）：如何才能高效率地查字典？</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -49,7 +50,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="01.txt" />
+    <Content Include="12.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

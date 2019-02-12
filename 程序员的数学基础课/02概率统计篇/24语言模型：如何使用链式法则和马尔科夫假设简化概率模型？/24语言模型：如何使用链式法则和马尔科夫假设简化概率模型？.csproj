@@ -4,13 +4,14 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{2060E5AD-25DB-475C-BD23-1CEB49A52960}</ProjectGuid>
+    <ProjectGuid>{8DA719D1-7A3A-43F0-A4DD-A2557F73A251}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_01作为一名软件工程师_为什么要学习数据结构和算法</RootNamespace>
-    <AssemblyName>01作为一名软件工程师，为什么要学习数据结构和算法</AssemblyName>
+    <RootNamespace>_24语言模型_如何使用链式法则和马尔科夫假设简化概率模型_</RootNamespace>
+    <AssemblyName>24语言模型：如何使用链式法则和马尔科夫假设简化概率模型？</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -49,7 +50,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="01.txt" />
+    <Content Include="24.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

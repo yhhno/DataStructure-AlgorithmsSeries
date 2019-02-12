@@ -4,13 +4,14 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{2060E5AD-25DB-475C-BD23-1CEB49A52960}</ProjectGuid>
+    <ProjectGuid>{FBAB0958-5F56-4D65-84B5-3ECBB1616AF4}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_01作为一名软件工程师_为什么要学习数据结构和算法</RootNamespace>
-    <AssemblyName>01作为一名软件工程师，为什么要学习数据结构和算法</AssemblyName>
+    <RootNamespace>_18总结课_数据结构_编程语句和基础算法体现了哪些数学思想_</RootNamespace>
+    <AssemblyName>18总结课：数据结构、编程语句和基础算法体现了哪些数学思想？</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -49,7 +50,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="01.txt" />
+    <Content Include="18.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
