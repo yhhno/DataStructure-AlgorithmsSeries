@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <RootNamespace>_37__贪心算法_如何用贪心算法实现Huffman压缩编码_</RootNamespace>
+  </PropertyGroup>
+
+</Project>

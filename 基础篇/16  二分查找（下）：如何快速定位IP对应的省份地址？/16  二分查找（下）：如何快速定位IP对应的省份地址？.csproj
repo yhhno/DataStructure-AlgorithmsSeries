@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <RootNamespace>_16__二分查找_下__如何快速定位IP对应的省份地址_</RootNamespace>
+  </PropertyGroup>
+
+</Project>

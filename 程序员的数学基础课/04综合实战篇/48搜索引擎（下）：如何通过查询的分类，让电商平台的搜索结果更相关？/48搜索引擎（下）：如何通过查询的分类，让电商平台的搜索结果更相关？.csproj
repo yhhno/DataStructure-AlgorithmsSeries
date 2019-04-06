@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <RootNamespace>_48搜索引擎_下__如何通过查询的分类_让电商平台的搜索结果更相关_</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="48.txt" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="48.txt" />
+  </ItemGroup>
+
+</Project>

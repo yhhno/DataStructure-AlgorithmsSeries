@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <RootNamespace>_35文本检索_如何让计算机处理自然语言_</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="35.txt" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="35.txt" />
+  </ItemGroup>
+
+</Project>

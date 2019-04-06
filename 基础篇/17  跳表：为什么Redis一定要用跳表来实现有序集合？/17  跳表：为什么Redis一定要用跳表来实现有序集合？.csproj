@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <RootNamespace>_17__跳表_为什么Redis一定要用跳表来实现有序集合_</RootNamespace>
+  </PropertyGroup>
+
+</Project>

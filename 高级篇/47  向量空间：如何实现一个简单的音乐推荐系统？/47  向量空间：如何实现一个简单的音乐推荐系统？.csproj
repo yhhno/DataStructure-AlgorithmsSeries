@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <RootNamespace>_47__向量空间_如何实现一个简单的音乐推荐系统_</RootNamespace>
+  </PropertyGroup>
+
+</Project>

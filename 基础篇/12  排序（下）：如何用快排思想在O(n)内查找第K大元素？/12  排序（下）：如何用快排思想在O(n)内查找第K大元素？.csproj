@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <RootNamespace>_12__排序_下__如何用快排思想在O_n_内查找第K大元素_</RootNamespace>
+  </PropertyGroup>
+
+</Project>

@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <RootNamespace>_271不定期福利第二期__王争_羁绊前行的_不是肆虐的狂风_而是内心的迷茫</RootNamespace>
+  </PropertyGroup>
+
+</Project>

@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <RootNamespace>_15__二分查找_上__如何用最省内存的方式实现快速查找功能_</RootNamespace>
+  </PropertyGroup>
+
+</Project>

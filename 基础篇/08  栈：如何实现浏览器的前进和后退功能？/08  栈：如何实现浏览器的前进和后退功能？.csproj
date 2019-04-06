@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <RootNamespace>_08__栈_如何实现浏览器的前进和后退功能_</RootNamespace>
+  </PropertyGroup>
+
+</Project>

@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <RootNamespace>_65用户故事__zixuan_站在思维的高处_才有足够的视野和能力欣赏_美_</RootNamespace>
+  </PropertyGroup>
+
+</Project>

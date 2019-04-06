@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <RootNamespace>_20__散列表_下__为什么散列表和链表经常会一起使用_</RootNamespace>
+  </PropertyGroup>
+
+</Project>

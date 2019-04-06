@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <RootNamespace>_66总结课_在实际开发中_如何权衡选择使用哪种数据结构和算法_</RootNamespace>
+  </PropertyGroup>
+
+</Project>

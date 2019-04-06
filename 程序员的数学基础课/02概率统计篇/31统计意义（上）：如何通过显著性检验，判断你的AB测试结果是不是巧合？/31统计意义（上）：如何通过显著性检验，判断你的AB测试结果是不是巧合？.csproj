@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <RootNamespace>_31统计意义_上__如何通过显著性检验_判断你的AB测试结果是不是巧合_</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="31.txt" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="31.txt" />
+  </ItemGroup>
+
+</Project>

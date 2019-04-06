@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <RootNamespace>_23__二叉树基础_上__什么样的二叉树适合用数组来存储_</RootNamespace>
+  </PropertyGroup>
+
+</Project>

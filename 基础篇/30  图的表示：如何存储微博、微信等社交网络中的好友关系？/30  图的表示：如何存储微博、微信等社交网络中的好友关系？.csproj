@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <RootNamespace>_30__图的表示_如何存储微博_微信等社交网络中的好友关系_</RootNamespace>
+  </PropertyGroup>
+
+</Project>

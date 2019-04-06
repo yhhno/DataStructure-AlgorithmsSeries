@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <RootNamespace>_33__字符串匹配基础_中__如何实现文本编辑器中的查找功能_</RootNamespace>
+  </PropertyGroup>
+
+</Project>

@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <RootNamespace>_31__深度和广度优先搜索_如何找出社交网络中的三度好友关系_</RootNamespace>
+  </PropertyGroup>
+
+</Project>

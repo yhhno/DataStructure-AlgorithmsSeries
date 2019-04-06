@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <RootNamespace>_21__哈希算法_上__如何防止数据库中的用户信息被脱库_</RootNamespace>
+  </PropertyGroup>
+
+</Project>

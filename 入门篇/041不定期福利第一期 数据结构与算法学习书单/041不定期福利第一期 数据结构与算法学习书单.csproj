@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <RootNamespace>_041不定期福利第一期_数据结构与算法学习书单</RootNamespace>
+  </PropertyGroup>
+
+</Project>

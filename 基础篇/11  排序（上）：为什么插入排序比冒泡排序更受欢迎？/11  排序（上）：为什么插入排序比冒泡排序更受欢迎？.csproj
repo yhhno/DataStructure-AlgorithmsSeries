@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <RootNamespace>_11__排序_上__为什么插入排序比冒泡排序更受欢迎_</RootNamespace>
+  </PropertyGroup>
+
+</Project>

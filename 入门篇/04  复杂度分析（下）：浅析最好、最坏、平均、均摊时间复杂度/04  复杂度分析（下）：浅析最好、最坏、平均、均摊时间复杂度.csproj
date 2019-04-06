@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <RootNamespace>_04__复杂度分析_下__浅析最好_最坏_平均_均摊时间复杂度</RootNamespace>
+  </PropertyGroup>
+
+</Project>

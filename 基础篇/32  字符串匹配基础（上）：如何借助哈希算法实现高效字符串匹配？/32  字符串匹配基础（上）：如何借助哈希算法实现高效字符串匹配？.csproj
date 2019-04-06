@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <RootNamespace>_32__字符串匹配基础_上__如何借助哈希算法实现高效字符串匹配_</RootNamespace>
+  </PropertyGroup>
+
+</Project>

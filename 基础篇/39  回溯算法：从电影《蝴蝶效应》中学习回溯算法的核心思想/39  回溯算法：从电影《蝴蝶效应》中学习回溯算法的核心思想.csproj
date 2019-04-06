@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <RootNamespace>_39__回溯算法_从电影_蝴蝶效应_中学习回溯算法的核心思想</RootNamespace>
+  </PropertyGroup>
+
+</Project>

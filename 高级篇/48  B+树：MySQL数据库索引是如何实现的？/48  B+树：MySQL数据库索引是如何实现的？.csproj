@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <RootNamespace>_48__B_树_MySQL数据库索引是如何实现的_</RootNamespace>
+  </PropertyGroup>
+
+</Project>

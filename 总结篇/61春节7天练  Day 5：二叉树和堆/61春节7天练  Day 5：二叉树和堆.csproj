@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <RootNamespace>_61春节7天练__Day_5_二叉树和堆</RootNamespace>
+  </PropertyGroup>
+
+</Project>

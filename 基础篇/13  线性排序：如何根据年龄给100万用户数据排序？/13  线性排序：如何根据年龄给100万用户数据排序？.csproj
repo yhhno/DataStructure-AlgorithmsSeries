@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <RootNamespace>_13__线性排序_如何根据年龄给100万用户数据排序_</RootNamespace>
+  </PropertyGroup>
+
+</Project>

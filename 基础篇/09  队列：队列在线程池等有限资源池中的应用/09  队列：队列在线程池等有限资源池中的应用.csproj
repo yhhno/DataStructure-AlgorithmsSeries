@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <RootNamespace>_09__队列_队列在线程池等有限资源池中的应用</RootNamespace>
+  </PropertyGroup>
+
+</Project>
